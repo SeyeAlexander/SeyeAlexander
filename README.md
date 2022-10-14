@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeyeAlexander
-- 👀 Interested in Backend Development. Building the world's ever demanding apps with Javascript.
-- 🌱 I’m currently learning ReactJs, Socket.io, Firebase
-- 💞️ I’m looking to collaborate on NodeJs/React projects
+- 👀 Interested in REACT.Js, Blockchain and Backend Development with Node.Js. Building the world's ever demanding apps with Javascript.
+- 🌱 I’m currently learning Redux, Socket.io, Firebase
+- 💞️ I’m looking to collaborate on NodeJs/React/Blockchain projects
 - 📫 ojubanirealex@gmail.com
 
 <!---
