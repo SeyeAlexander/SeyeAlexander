@@ -54,21 +54,22 @@ Tools I have used and learned include
 
 <br />
 
-#### Stats
+<!-- #### Stats
 
-<!-- <div width="100%" align="center">
-  <a href="https://github.com/SeyeAlexander/Musica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
-  <a href="https://github.com/SeyeAlexander/Chakra-video" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Chakra-video&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
+[![Seye's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyeAlexander&show_icons=true&theme=vue-dark)](https://github.com/SeyeAlexander/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyeAlexander&layout=compact&show_icons=true&theme=dracula)](https://github.com/SeyeAlexander/github-readme-stats)
 
 <br /> -->
 
-[![Seye's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyeAlexander&show_icons=true&theme=dracula)](https://github.com/SeyeAlexander/github-readme-stats)
+#### Top Repositories
 
-<br />
+<div align="flex">
+<a href="https://github.com/SeyeAlexander/Musica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
----
+<a href="https://github.com/SeyeAlexander/FootVille" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=FootVille&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+
 <!---
 SeyeAlexander/SeyeAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
