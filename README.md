@@ -41,10 +41,10 @@ Tools I have used and learned include
 #### Interests
 
 - 👀 Interested in REACT.Js, Blockchain and Backend Development with Node.Js, building the world's ever demanding apps with Javascript.
-- 💞️ I’m looking to collaborate on NodeJs/React/Blockchain projects
+- 💞️ I’m looking to collaborate on React/Frontend/NodeJs projects
 - ✉️  You can contact me at ojubanirealex@gmail.com
-- 🧠  I'm learning Firebase, Redux Toolkit and BlockChain development
-- 🤝  I'm open to collaborating on Technical writing work, Frontend and Backend development internhips
+- 🧠  I'm learning Solidity and BlockChain development
+- 🤝  I'm open to collaborating on Technical writing work, Frontend and Backend development projects
 
 <br />
 
