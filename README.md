@@ -4,12 +4,13 @@
 
 #### Hey Everyone 👋,
 
-I am a self-taught software developer 🚀 with experience in using JavaScript, React and Node.js for Frontend and Backend development, with a flair for creating elegant solutions with optimal results in mind.
+I’m a Fullstack Developer with a frontend focus, passionate about crafting accessible, performant, and detail-oriented user interfaces. I love building at the intersection of thoughtful design and robust engineering — where beautiful UI meets resilient systems.
 
-Developed an E-commerce web app utilizing the MERN Stack, a Music Player web app supported richly by the Spotify API and a Video Service app, playing videos on search, enabled by the Youtube API.
+Right now, I’m a Frontend Engineer at Neue World, where I lead development on internal platforms and tools that bridge creativity and code — including Flozi, which connects Notion to Webflow, and Layers, a crypto-authenticated freelance platform. I also build collaborative tools on the side, like a Notion-inspired editor powered by Supabase, Lexical, Drizzle, and OpenAI — built to push my skills and inspire others.
 
-I am Passionate about software architecture and Blockchain use cases. Regular participator in Software developer meetups and coding hackathons. 
-I am an avid team player who is always ready to learn and explore new frontiers in building the fast-paced future.
+In the past, I’ve worked across early-stage startups, remote product studios, and client-driven agencies, contributing to projects for organizations like ICCA Dubai and The Be Company UK. Across all these, I’ve shipped code that’s accessible, reliable, and built with care.
+
+When I’m not building something new, you’ll probably find me refining a component, sketching a UX flow in Figma, or figuring out how to teach LLMs to think like engineers. Otherwise, I’m reading, listening to music, or chasing creativity in some unexpected place.
 
 <a href="https://www.twitter.com/aexidaCoulter" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/aexiedaCoulter?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"/></a>
 
@@ -21,19 +22,11 @@ Tools I have used and learned include
 <p>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs">
 <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="36" height="36" alt="Bulma" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJs"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="Npm"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="VScode"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" width="36" height="36" alt="Yarn"/>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/>      
 <p/>
 
 <br />
@@ -50,7 +43,7 @@ Tools I have used and learned include
 
 #### Hobbies
 
-🚀 Includes Travelling, Football, Writing, Playing Video games
+🚀 Includes Travelling, Football, Writing
 
 <br />
 
