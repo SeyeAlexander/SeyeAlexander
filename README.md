@@ -1,8 +1,4 @@
 ### Hey, you landed here, I'm Seye!
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/aexiedaCoulter)
----
-
-#### Hey Everyone 👋,
 
 I’m a Fullstack Developer with a frontend focus, passionate about crafting accessible, performant, and detail-oriented user interfaces. I love building at the intersection of thoughtful design and robust engineering — where beautiful UI meets resilient systems.
 
