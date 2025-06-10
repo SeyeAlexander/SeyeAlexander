@@ -8,8 +8,6 @@ In the past, I’ve worked across early-stage startups, remote product studios, 
 
 When I’m not building something new, you’ll probably find me refining a component, sketching a UX flow in Figma, or figuring out how to teach LLMs to think like engineers. Otherwise, I’m reading, listening to music, or chasing creativity in some unexpected place.
 
-<a href="https://www.twitter.com/aexidaCoulter" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/aexiedaCoulter?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"/></a>
-
 <br />
 
 #### Tech Stack
