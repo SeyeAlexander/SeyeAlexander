@@ -52,9 +52,9 @@ Tools I have used and learned include
 #### Top Repositories
 
 <div align="flex">
-<a href="https://github.com/SeyeAlexander/my-portfolio-website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=my-portfolio-website&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/SeyeAlexander/my-portfolio-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=my-portfolio-website&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<a href="https://github.com/SeyeAlexander/Musica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/SeyeAlexander/Musica" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 <!---
