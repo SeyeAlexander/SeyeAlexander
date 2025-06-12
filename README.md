@@ -31,9 +31,6 @@ I'm currently architecting **Project Editor**, a Notion-inspired collaborative e
 * **Fullstack TypeScript:** Leveraging Next.js, Drizzle ORM for a type-safe experience from the database (PostgreSQL) to the UI.
 * **AI Integration:** Includes an AI assistant powered by the OpenAI API to help users generate ideas and content.
 
-<a href="https://github.com/SeyeAlexander/YOUR_PROJECT_EDITOR_REPO_NAME_HERE" align="left">
-  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=YOUR_PROJECT_EDITOR_REPO_NAME_HERE&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
 
 <br clear="both"/>
 
