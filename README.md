@@ -1,63 +1,96 @@
-### Hey, you landed here, I'm Seye!
+# Hey, I'm Alexander (Seye) Ojubanire! 👋
+
+### Senior Full-stack Engineer | TypeScript, React, Next.js, Node.js
+
+<p align="left">
+  <a href="https://alexander-delta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/alexander-ojubanire" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ojubanirealex@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+## About Me
 
 I’m a Fullstack Developer with a frontend focus, passionate about crafting accessible, performant, and detail-oriented user interfaces. I love building at the intersection of thoughtful design and robust engineering — where beautiful UI meets resilient systems.
 
-Right now, I’m a Frontend Engineer at Neue World, where I lead development on internal platforms and tools that bridge creativity and code — including Flozi, which connects Notion to Webflow, and Layers, a crypto-authenticated freelance platform. I also build collaborative tools on the side, like a Notion-inspired editor powered by Supabase, Lexical, Drizzle, and OpenAI — built to push my skills and inspire others.
+Right now, I’m a **Lead Frontend Engineer at Neue World**, where I architect and build tools that bridge creativity and code.
 
-In the past, I’ve worked across early-stage startups, remote product studios, and client-driven agencies, contributing to projects for organizations like ICCA Dubai and The Be Company UK. Across all these, I’ve shipped code that’s accessible, reliable, and built with care.
+---
 
-When I’m not building something new, you’ll probably find me refining a component, sketching a UX flow in Figma, or figuring out how to teach LLMs to think like engineers. Otherwise, I’m reading, listening to music, or chasing creativity in some unexpected place.
+## 🚀 What I'm Currently Building
 
-<br />
+I'm currently architecting **Project Editor**, a Notion-inspired collaborative editor. This project is my playground for exploring advanced engineering concepts and building a full-fledged, real-time application.
 
-#### Tech Stack
+* **Real-time Collaboration:** Implemented using CRDTs (Yjs) and Supabase Realtime for conflict-free, multi-user editing and live cursor tracking.
+* **Block-Based Editor:** Built with Lexical for a highly extensible and performant block-based editing experience.
+* **Fullstack TypeScript:** Leveraging Next.js, Drizzle ORM for a type-safe experience from the database (PostgreSQL) to the UI.
+* **AI Integration:** Includes an AI assistant powered by the OpenAI API to help users generate ideas and content.
 
-Tools I have used and learned include
-<p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react">
-<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJs"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="Typescript"/>      
-<p/>
+<a href="https://github.com/SeyeAlexander/YOUR_PROJECT_EDITOR_REPO_NAME_HERE" align="left">
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=YOUR_PROJECT_EDITOR_REPO_NAME_HERE&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
 
-<br />
+<br clear="both"/>
 
-#### Interests
+---
 
-- 👀 Interested in REACT.Js, Blockchain and Backend Development with Node.Js, building the world's ever demanding apps with Javascript.
-- 💞️ I’m looking to collaborate on React/Frontend/NodeJs projects
-- ✉️  You can contact me at ojubanirealex@gmail.com
-- 🧠  I'm learning Solidity and BlockChain development
-- 🤝  I'm open to collaborating on Technical writing work, Frontend and Backend development projects
+## My Toolbox
 
-<br />
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Lexical-000000?style=for-the-badge&logo=lexical&logoColor=white" alt="Lexical"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
-#### Hobbies
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-🚀 Includes Travelling, Football, Writing
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
-<br />
+---
 
-<!-- #### Stats
+## My GitHub Stats
 
-[![Seye's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeyeAlexander&show_icons=true&theme=vue-dark)](https://github.com/SeyeAlexander/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/SeyeAlexander/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyeAlexander&show_icons=true&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/SeyeAlexander/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyeAlexander&layout=compact&show_icons=true&theme=dracula" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeyeAlexander&layout=compact&show_icons=true&theme=dracula)](https://github.com/SeyeAlexander/github-readme-stats)
+---
 
-<br /> -->
+## Let's Connect
 
-#### Top Repositories
+I’m always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious team. Feel free to connect with me!
 
-<div align="flex">
-<a href="https://github.com/SeyeAlexander/my-portfolio-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=my-portfolio-website&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-<a href="https://github.com/SeyeAlexander/Musica" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeyeAlexander&repo=Musica&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-
-<!---
-SeyeAlexander/SeyeAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">
+  <a href="https://linkedin.com/in/alexander-ojubanire" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ojubanirealex@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
