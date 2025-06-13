@@ -2,20 +2,6 @@
 
 ### Senior Full-stack Engineer | TypeScript, React, Next.js, Node.js
 
-<p align="left">
-  <a href="https://alexander-delta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/alexander-ojubanire" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ojubanirealex@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-## About Me
-
 I’m a Fullstack Developer with a frontend focus, passionate about crafting accessible, performant, and detail-oriented user interfaces. I love building at the intersection of thoughtful design and robust engineering — where beautiful UI meets resilient systems.
 
 Right now, I’m a **Lead Frontend Engineer at Neue World**, where I architect and build tools that bridge creativity and code.
@@ -62,19 +48,6 @@ I'm currently architecting **Project Editor**, a Notion-inspired collaborative e
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-## My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/SeyeAlexander/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeyeAlexander&show_icons=true&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/SeyeAlexander/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeyeAlexander&layout=compact&show_icons=true&theme=dracula" />
-  </a>
 </p>
 
 ---
